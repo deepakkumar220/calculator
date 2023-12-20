@@ -1,0 +1,15 @@
+
+.buttons-container{
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.button{
+    width: 45px;
+    height: 45px;
+    margin: 3px;
+    border-radius: 2px;
+}
+.button:hover{
+    background-color: rgb(192, 188, 188);
+}
